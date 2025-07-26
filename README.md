@@ -9,17 +9,16 @@ Below is the directory structure of the project:
 
   ├── data/<br>
   │    ├── v_ApplyEyeMakeup_g01_c01.avi<br>
+  │    ├── ...<br>
   │    └── v_ApplyLipstick_g01_c01.avi<br>
   ├── output/<br>
   │    └── images.zip<br>
-  └── CycleGAN-Monet-Art-Generation.ipynb<br>
+  └── Video-Action-Classifier.ipynb<br>
 
 
 ## Files
 - data/xxx.avi: Same avi file from the UCF (University of Central Florida) Action Recognition Data Set.
-- output/
-- output/images.zip: Zip file containing 7000 images generated
-- CycleGAN-Monet-Art-Generation.ipynb: The main Jupyter Notebook containing the CycleGAN code. 
+- Video-Action-Classifier.ipynb: The main Jupyter Notebook containing the Convolutional 3D code. 
 
 ## Author
 - **Author**: Alexander Meau
