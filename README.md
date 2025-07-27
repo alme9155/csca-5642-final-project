@@ -1,7 +1,6 @@
 # CSCA-5642 Final Project
 
-This project implements a 3D Convolutional Neural Network to recognize action in video clips and then classify them into different categories. 
-The prediction result will be submitted to the Kaggle competition, 'Video Action Multi-Class Classifier'.
+This project explores the application of deep neural networks for human action recognition (HAR) in video sequences. Human action recognition has a wide range of practical applications, including sports analytics, robotics, and surveillance systems. By leveraging architectures such as CNN+LSTM and 3D Convolutional Networks (C3D), this study aims to compare the effectiveness of different algorithmic designs. Key challenges include modeling long-term temporal dependencies and handling variations in video length, lighting conditions, and resolution.
 
 
 ## Directory Structure
@@ -13,7 +12,7 @@ Below is the directory structure of the project:
   │    └── v_ApplyLipstick_g01_c01.avi<br>
   ├── output/<br>
   │    └── images.zip<br>
-  └── Video-Action-Classifier.ipynb<br>
+  └── Video-Action-Classification.ipynb<br>
 
 
 ## Files
