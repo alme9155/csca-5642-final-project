@@ -1,0 +1,2 @@
+*.tfrecord
+/kaggle/working/ucf50-tfrec/
