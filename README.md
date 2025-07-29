@@ -1,6 +1,6 @@
 # CSCA-5642 Final Project
 
-This project explores the application of deep neural networks for human action recognition (HAR) in video sequences. Human action recognition has a wide range of practical applications, including sports analytics, robotics, and surveillance systems. By leveraging architectures such as CNN+LSTM and 3D Convolutional Networks (C3D), this study aims to compare the effectiveness of different algorithmic designs. Key challenges include modeling long-term temporal dependencies and handling variations in video length, lighting conditions, and resolution.
+This project explores the application of deep neural networks for human action recognition (HAR) in video sequences. Human action recognition has a wide range of practical applications, including sports analytics, robotics, and surveillance systems. By leveraging architectures such as 3D Convolutional Networks, this study aims to compare the effectiveness of different algorithmic designs. Key challenges include modeling long-term temporal dependencies and handling variations in video length, lighting conditions, and resolution.
 
 
 ## Directory Structure
@@ -10,9 +10,7 @@ Below is the directory structure of the project:
   │    ├── v_ApplyEyeMakeup_g01_c01.avi<br>
   │    ├── ...<br>
   │    └── v_ApplyLipstick_g01_c01.avi<br>
-  ├── output/<br>
-  │    └── images.zip<br>
-  └── Video-Action-Classification.ipynb<br>
+  └── video-action-recognition-classification-final-project.ipynb<br>
 
 
 ## Files
