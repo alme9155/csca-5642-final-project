@@ -10,7 +10,7 @@ Below is the directory structure of the project:
   │    ├── v_ApplyEyeMakeup_g01_c01.avi<br>
   │    ├── ...<br>
   │    └── v_ApplyLipstick_g01_c01.avi<br>
-  └── video-action-recognition-classification-final-project.ipynb<br>
+  └── video-action-recognition-final-project.ipynb<br>
 
 
 ## Files
