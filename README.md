@@ -14,8 +14,8 @@ Below is the directory structure of the project:
 
 
 ## Files
-- data/xxx.avi: Same avi file from the UCF (University of Central Florida) Action Recognition Data Set.
-- Video-Action-Classifier.ipynb: The main Jupyter Notebook containing the Convolutional 3D code. 
+- data/xxx.avi: Sample avi file from the UCF (University of Central Florida) Action Recognition Data Set.
+- Video-Action-Classifier.ipynb: The main Jupyter Notebook containing the 3D Convolutional network definition. 
 
 ## Author
 - **Author**: Alexander Meau
